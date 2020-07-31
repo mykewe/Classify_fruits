@@ -19,7 +19,7 @@ async def get_bytes(url):
 
 app = Starlette()
 
-path = Path("/Users/apple/Documents/Starlet")
+path = Path("/data/")
 
 learner = load_learner(path)
 
