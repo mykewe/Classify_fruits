@@ -1,2 +1,9 @@
-# Classify_fruits
-This is a classifier that can distinguish between apples, pears, mangoes and lemons with over **90%** accuracy. Pictures of apples, pears, mangoes and lemons  were collected via goggle photos. These data are then cleaned, processed and trained with **Convolution Neural Network (CNN)** using fastai library ( see the Fruit_classifier notebook). The trained model is productionized using **Starlet** (fruits.py).
+# FRUITS CLASSIFIER
+This is a classifier that can distinguish between apples, pears, mangoes and lemons with over **90%** accuracy.
+
+* Built a a classifier that can distinguish between apples, pears, mangoes and lemons with over **90%** accuracy.
+* Scrapped up to 5000 images of apples, pears, mangoes and lemons from google
+* Built a **Convolution Neural Network (CNN)** using fastai library
+* The trained model is productionized using **Starlet** 
+
+
