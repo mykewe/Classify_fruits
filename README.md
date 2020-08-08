@@ -7,4 +7,6 @@ This is a classifier that can identify different fruits.
 * Built a **Convolution Neural Network (CNN)** using fastai library
 * The trained model is productionized using **Starlet** 
 
-
+## Resources Used
+* [Video](https://course.fast.ai/videos/?lesson=1)
+* [Note](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb)
